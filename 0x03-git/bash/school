@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "The school is open!" >> school
+git add .
+git commit -m "My personal work"
+git push
+git push master update_script
+
+echo echo The school is open!
