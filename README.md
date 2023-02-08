@@ -1,2 +1,2 @@
-My first readme
-We have gotta ace this. no going back
+My first readme.
+We have gotta ace this, so no going back
